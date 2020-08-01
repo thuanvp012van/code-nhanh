@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+public function ${1:comments}()
+{
+    return $this->hasMany('${2:App\Comment}', '${3:foreign_key}', '${4:local_key}');
+}
+]]></content>
+	<tabTrigger>hasMany</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
