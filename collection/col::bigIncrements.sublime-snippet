@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$table->bigIncrements('${1:id}');
+]]></content>
+	<tabTrigger>colbigimcrements</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

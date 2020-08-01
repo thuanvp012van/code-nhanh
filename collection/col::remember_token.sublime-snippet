@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$table->rememberToken();
+]]></content>
+	<tabTrigger>colrememberToken</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

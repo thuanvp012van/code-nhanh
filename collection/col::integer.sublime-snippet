@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$table->integer('${1:votes}')${2:->unsigned()}${3:->nullable()}${4:->default(${5:12})};
+]]></content>
+	<tabTrigger>colinteger</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

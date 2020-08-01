@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+if(!empty(${1:gi_do}))
+{
+	${2:#code}
+}
+]]></content>
+	<tabTrigger>notempty</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

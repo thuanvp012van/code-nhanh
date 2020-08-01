@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+if(isset(${1:gi_do}))
+{
+	${2:#code}
+}
+]]></content>
+	<tabTrigger>isset</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

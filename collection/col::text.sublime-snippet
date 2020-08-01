@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$table->text('${1:description}')${2:->nullable()}${3:->default('${4:text}')};
+]]></content>
+	<tabTrigger>coltext</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

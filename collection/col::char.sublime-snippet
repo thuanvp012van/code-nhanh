@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$table->char('${1:name}', ${2:4})${3:->default('${4:text}')};
+]]></content>
+	<tabTrigger>colchar</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
